@@ -1,0 +1,7 @@
+;this is the code for multiplying two 16 bit numbers
+
+data segment:
+a db 1234h
+b db 5678h
+mul dw ?
+
